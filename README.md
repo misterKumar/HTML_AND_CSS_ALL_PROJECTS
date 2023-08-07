@@ -12,3 +12,7 @@ project-4:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/4_OTP_verifict
 project-5:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/5_Animated_CountDown/
 
 project-6:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/6_Animated_Navigation/
+
+project-6:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/7_Auto_Text_Effect/
+
+project-6:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/8_Background_Slider/
