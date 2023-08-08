@@ -13,6 +13,10 @@ project-5:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/5_Animated_Cou
 
 project-6:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/6_Animated_Navigation/
 
-project-6:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/7_Auto_Text_Effect/
+project-7:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/7_Auto_Text_Effect/
 
-project-6:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/8_Background_Slider/
+project-8:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/8_Background_Slider/
+
+project-9:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/9_blurry_Loading/
+
+project-10:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/10_Button_Ripple_Effect/
