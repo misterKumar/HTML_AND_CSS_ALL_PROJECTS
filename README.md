@@ -20,3 +20,7 @@ project-8:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/8_Background_S
 project-9:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/9_blurry_Loading/
 
 project-10:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/10_Button_Ripple_Effect/
+
+project-11:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/11_Content_Place_Holder/
+
+project-12:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/12_Custom_Range_Slider/
