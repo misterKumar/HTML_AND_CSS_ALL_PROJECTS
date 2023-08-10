@@ -24,3 +24,7 @@ project-10:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/10_Button_Rip
 project-11:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/11_Content_Place_Holder/
 
 project-12:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/12_Custom_Range_Slider/
+
+project-13:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/13_Ugly_Jokes/
+
+project-14:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/14_Double_Click_Heart/
