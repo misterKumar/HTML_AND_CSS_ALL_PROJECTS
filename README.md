@@ -40,3 +40,23 @@ project-18:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/18_Drink_Wate
 project-19:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/19_Event_KeyCodes/
 
 project-20:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/20_Expanding_Cards/
+
+project-20:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/21_Faq_Collapse/
+
+project-20:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/22_Feedback_Ui_Design/
+
+project-20:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/23_Form_Input_Wave/
+
+project-20:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/24_Github_Profiles/
+
+project-20:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/25_Radio_Good_Cheap_Fast/
+
+project-20:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/26_Hidden_Seacrh/
+
+project-20:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/27_HoverBoard/
+
+project-20:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/28_Image_carousel/
+
+project-20:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/29_Incrementing_Counter/
+
+project-20:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/30_Insect_Catch_Game/
