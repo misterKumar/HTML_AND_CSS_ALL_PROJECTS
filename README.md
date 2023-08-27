@@ -60,3 +60,17 @@ project-28:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/28_Image_caro
 project-29:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/29_Incrementing_Counter/
 
 project-30:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/30_Insect_Catch_Game/
+
+project-31:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/31_Kinetic_Loader/
+
+project-32:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/32_Live_User_Filter/
+
+project-33:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/33_Mobile_Tag_Navigation/
+
+project-34:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/34_Movie_App/
+
+project-35:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/35_Netflix_Mobile_Navigation/
+
+project-36:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/36_Notes_App/
+
+project-37:https://misterkumar.github.io/HTML_AND_CSS_ALL_PROJECTS/37_Password_Generator/
